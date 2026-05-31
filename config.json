@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvync",
+        "uuid": 28308285,
+        "checksum": "uaao8v"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
